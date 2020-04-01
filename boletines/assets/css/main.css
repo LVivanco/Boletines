@@ -1,0 +1,16 @@
+.red {
+  height: 200px;
+  width: 200px;
+  background-color: seagreen;
+}
+#btn-pay {
+  background-color: yellow;
+}
+td {
+  border: solid 1px;
+  text-align: center;
+}
+
+.material-icons.yellow {
+  color: #fbff00b7;
+}
