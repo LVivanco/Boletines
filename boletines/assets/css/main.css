@@ -18,7 +18,7 @@ a {
   color: #752a1c;
 }
 
-a:hover{
+a:hover {
   opacity: 0.5;
 }
 
@@ -106,9 +106,20 @@ a:hover{
   top: 1em;
 }
 
-.circle{
+.circle {
   border-radius: 2em;
-  background-color: #752A1C;
+  background-color: #752a1c;
   color: white;
   cursor: pointer;
+}
+
+.imagen {
+  position: absolute;
+}
+.texto-descrip {
+  position: absolute;
+  align-items: center;
+  width: 600px;
+  height: 200px;
+  left: 320px
 }
