@@ -108,13 +108,10 @@ a:hover {
   padding-left: 2em;
 }
 
-.position {
+.circle {
   position: absolute;
   right: 2em;
   top: 1em;
-}
-
-.circle {
   border-radius: 2em;
   background-color: #752a1c;
   color: white;
